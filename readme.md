@@ -1,6 +1,6 @@
-# PlayIt by Jan Erik Olausen
+# PlayItPro by Jan Erik Olausen
 
-This is the Amiga C/ASM source code of PlayIt, released under the GPLv3 public license for preservation.
+This is the Amiga C/ASM source code of PlayItPro, released under the GPLv3 public license for preservation.
 
 PIP was designed in 1992 to play samples direct from HD in
 icehockey-arenas, radio-stations etc.
